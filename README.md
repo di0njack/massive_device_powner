@@ -1,0 +1,1 @@
+Python script for massive search of interesting targets using Shodan or Masscan (massive port scanner) and auto-powning them using default credentials (e.g 'admin/admin', 'admin/1234',...). Also can be used for targeting specific MAC devices within a network
